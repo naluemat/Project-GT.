@@ -1,2 +1,2 @@
-# Project-GT.
+# Project-GT
 GT. website shopping online.
